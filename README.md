@@ -1,7 +1,8 @@
 # SCA-SQL-data-cleaning
 
 ### Overview about Club member data
-    sql code
+sql code:
+
     select * from club_member_infor limit 10;
     
 #### Result show in below table:
