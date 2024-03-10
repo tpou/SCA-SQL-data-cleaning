@@ -41,4 +41,7 @@ sql code:
     insert into club_member_info_cleaned 
     select * from club_member_info ;
 
-    
+#### Convert Upper letter for full name:
+
+    UPDATE club_member_info_cleaned SET 
+    full_name = UPPER(full_name);
