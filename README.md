@@ -3,7 +3,7 @@
 ### Overview about Club member data
 sql code:
 
-    select * from club_member_infor limit 10;
+    select * from club_member_info limit 10;
     
 #### Result show in below table:
 
@@ -19,6 +19,7 @@ sql code:
 |   Joete Cudiff|51|divorced|jcudiff7@ycombinator.com|616-617-0965|975 Dwight Plaza,Grand Rapids,Michigan|Research Nurse|11/16/2014|
 |mendie alexandrescu|46|single|malexandrescu8@state.gov|504-918-4753|34 Delladonna Terrace,New Orleans,Louisiana|Systems Administrator III|3/12/1921|
 | fey kloss|52|married|fkloss9@godaddy.com|808-177-0318|8976 Jackson Park,Honolulu,Hawaii|Chemical Engineer|11/5/2014|
+
 
 
 ### Copy to a new cleaned data table:
